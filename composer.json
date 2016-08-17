@@ -1,0 +1,12 @@
+{
+  "name": "noblesamurai/wp-ns-cache-manager",
+  "description": "Allow you to selectively disable cache on individual pages",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "authors": [
+    { "name": "Noble Samurai" }
+  ],
+  "require": {
+    "composer/installers": "~1.0.0"
+  }
+}
